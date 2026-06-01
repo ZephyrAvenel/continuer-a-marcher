@@ -8,4 +8,27 @@ h1{font-size:3rem;font-weight:300;margin-bottom:40px}
 .btn{display:inline-block;margin-top:40px;padding:18px 36px;border-radius:999px;background:#d8c28a;color:#08111f;text-decoration:none;font-weight:bold}
 .divider{width:80px;height:1px;background:#d8c28a;margin:40px auto}
 .final{font-size:2rem;line-height:1.8}
-.continue{font-size:1.6rem;color:#d8c28a}
+.continue-btn{
+  display:inline-block;
+  margin-top:35px;
+  padding:14px 34px;
+
+  color:#d6bc78;
+  text-decoration:none;
+
+  border:1px solid rgba(214,188,120,.4);
+  border-radius:40px;
+
+  font-size:1.05rem;
+  letter-spacing:.08em;
+
+  background:rgba(214,188,120,.05);
+
+  transition:all .3s ease;
+}
+
+.continue-btn:hover{
+  background:rgba(214,188,120,.12);
+  box-shadow:0 0 20px rgba(214,188,120,.25);
+  transform:translateY(-2px);
+}
