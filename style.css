@@ -1,0 +1,11 @@
+
+body{background:#08111f;color:#f2f2f2;font-family:Georgia,serif;margin:0;padding:0}
+.container{max-width:900px;margin:auto;padding:60px 20px;text-align:center}
+.kicker{letter-spacing:6px;color:#d8c28a;font-size:.9rem}
+h1{font-size:3rem;font-weight:300;margin-bottom:40px}
+.intro,.reflection{font-size:1.4rem;line-height:1.8;max-width:700px;margin:auto}
+.card-image{width:100%;border-radius:24px;box-shadow:0 20px 60px rgba(0,0,0,.4);margin-bottom:40px}
+.btn{display:inline-block;margin-top:40px;padding:18px 36px;border-radius:999px;background:#d8c28a;color:#08111f;text-decoration:none;font-weight:bold}
+.divider{width:80px;height:1px;background:#d8c28a;margin:40px auto}
+.final{font-size:2rem;line-height:1.8}
+.continue{font-size:1.6rem;color:#d8c28a}
